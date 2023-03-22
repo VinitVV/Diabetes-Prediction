@@ -31,13 +31,13 @@ The goal of this project is to build a machine learning model for common people 
 Fork and clone the repository
 
 ```bash
-  git clone https://github.com/MeetMulik/Diabetes-Prediction.git
+  git clone https://github.com/VinitVV/Diabetes-Prediction.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Diabetes-Prediction-main
+  cd Diabetes-Prediction
 ```
 
 Start website using streamlit
